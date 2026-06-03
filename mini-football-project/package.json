@@ -1,7 +1,0 @@
-{
-  "name": "mini-football",
-  "version": "1.0.0",
-  "scripts": {
-    "start-app": "bash start-app.sh"
-  }
-}
